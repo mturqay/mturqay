@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mturqay
+- 🌱 I’m currently learning React Native and TailwindCSS
+- 💞️ I’m looking to collaborate on a project called "canBank".
+- 📫 You can get in touch with me by emailing me at turqaymuxtarzade925@gmail.com
